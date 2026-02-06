@@ -1,16 +1,42 @@
-# crime
+# 🚔 Crime Analysis Application (Flutter + ML)
 
-A new Flutter project.
+A smart **Crime Analysis Mobile Application** built using **Flutter** and **Machine Learning** to analyze crime data, visualize trends, and predict crime risk levels.
 
-## Getting Started
+This app helps users understand crime patterns in different areas and supports data-driven decision making.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📌 Project Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The Crime Analysis Application provides:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Crime trend visualization
+- Area-wise crime statistics
+- ML-based crime prediction
+- Interactive and user-friendly Flutter UI
+
+---
+
+## ✨ Features
+
+✅ Crime data visualization using charts  
+✅ Crime prediction using ML model  
+✅ Location/area-based analysis  
+✅ User-friendly mobile interface  
+✅ Real-time insights from dataset  
+
+---
+
+## 🛠 Tech Stack
+
+| Category | Technology |
+|---------|------------|
+| Frontend | Flutter (Dart) |
+| Machine Learning | Python, Scikit-learn / TensorFlow |
+| Model Deployment | TFLite (TensorFlow Lite) |
+| Data Visualization | Flutter Charts |
+| Tools | VS Code, GitHub |
+
+---
+
+
