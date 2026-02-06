@@ -32,11 +32,9 @@ The Crime Analysis Application provides:
 | Category | Technology |
 |---------|------------|
 | Frontend | Flutter (Dart) |
-| Machine Learning | Python, Scikit-learn / TensorFlow |
-| Model Deployment | TFLite (TensorFlow Lite) |
+| Backend API | Flask / FastAPI |
+| Machine Learning | Python, Scikit-learn |
+| Deployment Platform | Render Cloud |
 | Data Visualization | Flutter Charts |
 | Tools | VS Code, GitHub |
-
----
-
 
